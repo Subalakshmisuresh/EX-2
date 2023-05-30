@@ -50,7 +50,12 @@ OUTPUT:
 
 CLIENT:
 
+![cn-2c](https://github.com/Subalakshmisuresh/EX-2/assets/121957896/ad779c8c-4060-4c0d-920c-5a1562732656)
+
 SERVER:
+
+![cn-2s](https://github.com/Subalakshmisuresh/EX-2/assets/121957896/0b9ff73d-6ced-4ee9-95e8-d3973c862149)
+
 
 RESULT:
 
